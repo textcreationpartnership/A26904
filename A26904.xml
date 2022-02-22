@@ -1,0 +1,348 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon, or, The survey of man taken by J.B. as it was delivered at his father's funeral, September 4th, 1638.</title>
+            <author>J. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26904</idno>
+            <idno type="STC">Wing B123</idno>
+            <idno type="STC">ESTC R32846</idno>
+            <idno type="EEBO-CITATION">12773405</idno>
+            <idno type="OCLC">ocm 12773405</idno>
+            <idno type="VID">93692</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26904)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93692)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1029:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon, or, The survey of man taken by J.B. as it was delivered at his father's funeral, September 4th, 1638.</title>
+                  <author>J. B.</author>
+               </titleStmt>
+               <extent>[3], 21 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M.DC.LII [1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: Mans survey.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93692:1"/>
+            <pb facs="tcp:93692:1" rendition="simple:additions"/>
+            <p>A SERMON OR The Survey of Man.</p>
+            <p>Taken by <hi>J. B.</hi>
+            </p>
+            <p>As it was Delivered at his Fathers Funeral, <hi>September</hi> 4<hi rend="sup">th.</hi> 1638.</p>
+            <q>
+               <l>
+                  <g ref="char:V">Ʋ</g>t tibi Mors foelix contingat, vivere diſce.</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>t foelix poſſis vivere, diſce mori.</l>
+               <bibl>
+                  <hi>Cael. Calcagninus.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, M.DC.LII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="apology">
+            <pb facs="tcp:93692:2"/>
+            <pb n="1" facs="tcp:93692:2"/>
+            <head>THE APOLOGIE.</head>
+            <head type="sub">
+               <hi>Hearken, O people, as fellow-feeling members: and look not but with moistned Eyes on my Complaints.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lord hath filled my Cup full, even to the brim; yea, it doth overflow: but wo, and alas, it is with afflictions! Did not theſe<note n="*" place="margin">The ſmall Pox.</note> Tokens of Gods wrath, that here you ſee to be fixed on my Face, portend the evils for to come, (juſt puniſh<g ref="char:EOLhyphen"/>ments for ſin) at once to be bereft of both my neereſt Friends? When <hi>Epaphroditus</hi> eſcaped death, <hi>God was mercifull unto me,</hi> ſaid <hi>Paul, leſt I ſhould have ſorrow upon ſorrow:</hi>
+               <note place="margin">Phil. 2.17.</note> I have eſcaped death; God be merciful unto me, that have ſorrows upon ſor<g ref="char:EOLhyphen"/>row; not one or two, but an heap of ſorrows. <hi>The ſorrows of Death have compaſſed me about on every ſide,</hi> may ſay now, as once ſaid<note place="margin">Pſal. 18.3.</note> 
+               <hi>David:</hi> I meet with them at every turn; on my right hand, and on my left hand too: Here, on this, we have theſe my Fathers Corps, ſad ſpectacle of Mortality, preſent be<g ref="char:EOLhyphen"/>fore our eyes: There, on that, we may ſoon behold the place where ſhe, good Woman, dear Mother,<note n="*" place="margin">Twenty dayes before.</note> lately has been in<g ref="char:EOLhyphen"/>terred. And which way now ſhould I turn my ſelf? no place can be free from Grief, I have no ſanctuary to fly unto; how then ſhould the Pulpit ſhelter me? In this perplexity you may perhaps expect to ſee a flood of Tears diſtilling from my blub<g ref="char:EOLhyphen"/>bering eyes: yet how ſhould I weep at all? when you know that where the water ſtands it is the deepeſt; great<note n="*" place="margin">Parva lo<g ref="char:EOLhyphen"/>quuntur curae, ingentes stupent</note> ſorrows ſtrike dumb; and the leſſe the ſound is of our grief, the greater is the ſenſe thereof. In this perplexity, you may perhaps expect
+<pb n="2" facs="tcp:93692:3"/>
+to hear more ſighs and ſobs, then words to iſſue through my mouth: yet how ſhould I be ſilent, when the dead ſhall bid me ſpeak. Then blame not (I pray, my brethren) though I preſume to take this heavy task upon me; and think not that I ſoar to high above my Sphear, beeing thus deeply plunged in this Gulf of miſery: but rather beſeech Almighty God to enable me in the performance of this my laſt duty, which I owe to my Fathers Will; and that my Paſſion may be over<g ref="char:EOLhyphen"/>ruled by Patience, which will beſt manifeſt my ſelf to be the true Son of this my deceaſed Parent, who here remains a lively pattern of Patience unto us, and <hi>Job</hi> was a pattern of Patience unto him, that even in the midſt of his afflictions offended not with his tongue: only perchance he did (like <hi>Job</hi>) bewail the eſtate of our humane miſery: and therefore out of the com<g ref="char:EOLhyphen"/>plaints of <hi>Job,</hi> I ſhall now derive the grounds of my preſent Diſcourſe, as it is written in his fourteenth Chapter, and the tenth Verſe. <hi>Job</hi> the 14<hi rend="sup">th</hi> and the 10<hi rend="sup">th</hi> it is thus written. <hi>Man dyeth, and waſteth away: Yea, man yieldeth up the Ghoſt: and where is he?</hi> The latter part of the Verſe: <hi>Man yieldeth up the Ghoſt: and where is he?</hi>
+            </p>
+         </div>
+         <div type="prologue">
+            <head>THE PROLOGUE.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Job 14.10.</hi>
+                  </bibl>
+                  <p>
+                     <note place="margin">Text.</note>Man giveth up the Ghoſt: and where is he?</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>BOſrah,</hi> a City on this ſide <hi>Jordan,</hi> the Metropolis of <hi>Idumea,</hi> was the Birth-place of moſt patient <hi>Job,</hi> born not long before the dayes of <hi>Moſes,</hi>
+               <note place="margin">Johan. Bol<g ref="char:EOLhyphen"/>dung.</note> ſince the Creation 2270. The fift or ſixt in deſcent from <hi>Eſau: Zerah</hi> was his Father, and himſelf called <hi>Jobab,</hi> at <hi>Gen.</hi> 36. No leſs then a Duke by birth; being Heir apparent and Lord Controuler of his Fathers Fa<g ref="char:EOLhyphen"/>mily. One of great Hopes even from his Infancie: and grown up unto riper years, he begins to look about the World, tra<g ref="char:EOLhyphen"/>velling a little Northward towards the land of <hi>Huz,</hi>
+               <note place="margin">Job 1. Ver. 1.</note> the con<g ref="char:EOLhyphen"/>fines of his Native Soil: where his preſent converſation doth
+<pb n="3" facs="tcp:93692:3"/>
+ſoon expreſs the goodneſs of his diſpoſition, to be both tem<g ref="char:EOLhyphen"/>perate and wiſe, juſt, perfect, and upright in all things. This it is that won the hearts of the common people, and their King <hi>Bela</hi> is no ſooner dead, but they ſet him in his Regal Throne: where he ſoon became the moſt renowned Potentate of all the Eaſt: for the name of <hi>Job</hi> was exceeding famous, together with his wealth: nothing was wanting to advance his happineſs. But ſtay a little, and ſee the Vanity of our frail nature, even in its beſt condition. <hi>Job</hi> all this while is thus pro<g ref="char:EOLhyphen"/>ſperous, but to be made the more unhappy: he is now climb'd up to the height of Fortunes wheel; and at the next turn his fall will be but the greater. What though God had placed him above the reach of humane malice? yet his uprightneſs ſhall never want a Devil, as long as hell can yield him one. <hi>Sathan</hi> now is become his Calumniator, and ſaid unto the Lord;<note place="margin">Verſe 9.</note> 
+               <hi>Doth Job ſerve God for nought? only deſtroy his wealth and ſubſtance; then he will curſe thee to thy face.</hi> On this falſe ſuggeſtion,<note place="margin">11.</note> the Lord lets the Devil looſe: who begins with his aſſes and his oxen, which he cauſed the <hi>Sabeans</hi> to ſteal away;<note place="margin">15.</note> and left but one ſervant alive to bring the newes: next, fire from Heaven conſumed his ſheep: then the <hi>Chaldeans</hi> fell upon his camels:<note place="margin">16.</note> laſt of all,<note place="margin">19.</note> he loſt his Children by the downfall of their feaſting-houſe: and ſtill (as the Devil would have it) to augment their grief, one only eſcaped to bring the newes.<note place="margin">20.</note> Notwithſtanding all this <hi>Job</hi> was ſtill upright, he fell upon his face and worſhip<g ref="char:EOLhyphen"/>ped. Hereupon <hi>Sathan</hi> reneweth his ſuit unto the Lord,<note place="margin">Chap. 2.</note> and gets a larger commiſſion,<note place="margin">Verſe 4.</note> even to tempt <hi>Job</hi> in his proper per<g ref="char:EOLhyphen"/>ſon; then he ſmote him with boils and blanes in every part,<note place="margin">6.</note> no place was left to reſt him on; all ſick from top to toe;<note place="margin">7.</note> as many diſeaſes as members in his body. The moſt general was the worſt of ulcers: hence iſſued worms and ſtreams of cor<g ref="char:EOLhyphen"/>rupted Humors, whereunto is joyned a<note n="*" place="margin">
+                  <g ref="char:V">Ʋ</g>t ſcripſit Galenus.</note> fleſh-conſuming le<g ref="char:EOLhyphen"/>proſie. He had the Quinſie in his neck and throat: diſeaſes of the joynts and gout: <hi>morbus pedicularis:</hi> the Dyſenterie or bloody flix: Colick, and torments of the<note n="*" place="margin">Chap. 39.</note> Reins:<note n="*" place="margin">16.</note> Aſtma,<note place="margin">Difficulty of breathing. Chap. 19.17.</note> and the Hectick Feaver: Pluriſie and a frightful ſleep: Sore eyes and Head-ache: and a whole diſeaſed bodie: all inflamed
+<pb n="4" facs="tcp:93692:4"/>
+by the inward heat of a peſtilent and biting humor: The dung<g ref="char:EOLhyphen"/>hill is now become his Throne, and he that not long before did abound in ſilks,<note place="margin">Chap. 2.8.</note> for want of linen and ſound nails, doth ſcrape his ſcabs with a broken Potſheard. Oh the exceeding miſery of a man that had a Kingdom at command, yet now is ready to famiſh for want of bread! He had not a morſel for his belly, before his<note n="1" place="margin">
+                  <hi>Baſil. (Chryſ. Olymp.) Jobi</hi> uxorem ad ſuam virique vitam ſuſten<g ref="char:EOLhyphen"/>tendam oſtia<g ref="char:EOLhyphen"/>tim mendi<g ref="char:EOLhyphen"/>caſſe.</note> Wife (from door to door) had begged it: who (<note n="2" place="margin">
+                  <hi>Tempore multo tranſ<g ref="char:EOLhyphen"/>acto,</hi> as it is in the Septuagint.</note> after his fifteen<note n="3" place="margin">
+                  <hi>If Theodo<g ref="char:EOLhyphen"/>ret ſpeak true.</hi> Chap. 3. verſ. 1.3, &amp;c.</note> years continuance in this calamity) ſaid unto him; <hi>Doeſt thou ſtill retain thine integrity? curſe God, and dye.</hi> Lo here the malice of the Devil, which had left him no<g ref="char:EOLhyphen"/>thing but his Wife and Tongue, that with the latter he might blaſpheme the Lord, and the former might ſerve as an inſtru<g ref="char:EOLhyphen"/>ment for to tempt him to it. Notwithſtanding this <hi>Job</hi> did not ſin. But although he did not curſe his God, yet he did his birth<g ref="char:EOLhyphen"/>day in his third Chapter: neither blame him for it, for the anguiſh of his ſoul was exceeding great, that at length burſt forth into this (or the like) moſt doleful exclamation.</p>
+            <p>Ah me moſt miſerable! let that night be never had in re<g ref="char:EOLhyphen"/>membrance, when it was ſaid, a man childe is conceived. Cur<g ref="char:EOLhyphen"/>ſed be that day with darkneſſe wherein I was born: let not God regard it from above, that the clouds may cover it as a Canopy with blackneſs to make it terrible: let not the Sunſhine come neer it; no, not ſo much as the twilight of the leſſer ſtars, be<g ref="char:EOLhyphen"/>cauſe it hid not theſe grievous ſorrows from my weeping eyes. Alas; why dyed I not before I ſaw my being? Better it had been for me to have periſhed in the Haven, then thus to have lanched forth into this ſea of troubles. O that I had been buri<g ref="char:EOLhyphen"/>ed before I was born; and my Mothers Womb would have proved my Tomb; then ſhould I ſleep at quiet, and have been at reſt: but now my dayes are lengthened to encreaſe my ſor<g ref="char:EOLhyphen"/>row. Deliver me, O God, out of this diſtreſs: O ſpare me a little before I go hence,<note place="margin">Chap. 14.7.</note> and be no more ſeen. For there is hope of a tree,<note place="margin">8.</note> although the ſpreading top thereof be lopt, and the whole bulk cut down; yet it will ſpring again, and not ceaſe to ſend forth his tender Branch:<note place="margin">9.</note> yea, though the root wax old and die, yet by the ſent of moiſtning water, it will bud again, and flouriſh like a new ſet plant. <hi>But we must needs die,
+<pb n="5" facs="tcp:93692:4"/>
+and are as water ſpilt upon the ground,<note place="margin">2 Sam. 14.14.</note> which cannot be gathered up again. A man dieth and waſteth away: yea, a man giveth up the Ghoſt, and where is he?</hi>
+            </p>
+            <q>Man giveth up the Ghoſt: and where is he?<note place="margin">Text.</note>
+            </q>
+            <p>Theſe words will bear a double conſideration.<note place="margin">Diviſion.</note>
+            </p>
+            <p>One is Relative:<note place="margin">1. Relative.</note> and ſo they have dependance on the three precedent verſes of this Chapter: and thus my Text were a piece of <hi>Jobs</hi> compariſon, ſetting forth the diſtreſſed eſtate of a dying man, by the new and hopeful growth of an old con<g ref="char:EOLhyphen"/>ſuming tree. But this is not that which now I intend to follow.</p>
+            <p>The other is Abſolute:<note place="margin">2. Abſolute.</note> and (in this reſpect) if you will be pleaſed (with me) to look upon the words, at the firſt view,<note place="margin">1. Affirmative Propoſition.</note> you may behold, Firſt an affirmative Propoſition. <hi>Man yieldeth up the Ghoſt.</hi>
+            </p>
+            <p>Secondly, words of Conſequence,<note place="margin">2. Inference.</note> or a ſleight Inference by way of Queſtioning or Quere: <hi>where is he!</hi>
+            </p>
+            <p>
+               <list>
+                  <item>In the Propoſi<g ref="char:EOLhyphen"/>tion you have
+<list>
+                        <item>1. The Subject, <hi>Man.</hi>
+                        </item>
+                        <item>2. The Act of this Subject, <hi>yieldeth up. Man yieldeth up.</hi>
+                           <note place="margin">1. Part.</note>
+                        </item>
+                        <item>3. The object of this Act, or the <hi>Depo<g ref="char:EOLhyphen"/>ſitum,</hi> which is, <hi>the Ghoſt. Man yiel<g ref="char:EOLhyphen"/>deth up the Ghoſt.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> In the firſt, I ſhall take a ſhort ſurvey of man before he die.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> From the ſecond, you may learn the neceſſity of man to die.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> And in the third, the nature of our Life and Soul: and what it is for a man to die.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Laſtly, I ſhall conclude with an anſwer to the Quere; <note place="margin">2. Part.</note> and will tell you as (neer as I can) where a man is, when he ſhall die.</p>
+            <p>Of theſe in their order, according to my Method of Diviſion. And firſt of the firſt; The Subject of this Diſcourſe, <hi>Man.</hi>
+            </p>
+         </div>
+         <div type="sermon">
+            <div type="part">
+               <head>MAN.</head>
+               <p>We will take a Survey of Man before he die.</p>
+               <p>The laſt thing that received any Breath from God was Man,<note place="margin">Firſt Part.</note>
+                  <pb n="6" facs="tcp:93692:5"/>
+not that he was leaſt, but perhaps becauſe the Lord ſhould have made ſo great a Prince in vain, if he had had no place wherein to rule. When the Lord had drawn out that large and real Map of the ſpacious world; he did then abridge it into the little Table of Man; which alone did conſiſt of Heaven and of Earth; of Soul and of a Body.</p>
+               <p>
+                  <note place="margin">The Body of Man.</note>That the Body was created of Earth, I think that there is none doth doubt thereof: yet (ſaith <hi>Arias Montanus</hi>) it was not, <hi>Ex qualibet humo ſed pinguiſſima; Ghaphar Adamah,</hi> that is the Original, of a reddiſh ſoft, and the fatteſt Earth. Nor is it ſo, that God made an Image moulded out of Clay, but out of it (by the power of his word) came blood, fleſh and bones, with all the other parts of man, whoſe body is compounded of the four Elements, and doth partake of all their qualities, though earth predominates and nominates, whereunto the fleſh doth bear reſemblance; his vital Spirits agree with Air and Fire; his humors to the Water: yea, there is no piece ſo ſmall in the whole Frame of man, wherein every one of the Ele<g ref="char:EOLhyphen"/>ments do not intermeddle their power, although one of them doth alwayes command above the reſt, and bear the ſway. Now as the parts of man are many, ſo the principal is the head; there dwell thoſe majeſtick powers of Reaſon, that make a man. The Senſes, as they have their original from thence, ſo do they all agree there to manifeſt their Vertue. How goodly proportions hath the Lord ſet in the face of man; in the Breaſt, the Arms, the Legs, and the whole ſtructure of every mem<g ref="char:EOLhyphen"/>ber? all as decent, as neceſsary. It were long for to ſpeak of the Homogeneous or ſimilary parts, which are nine, the Bone, Ligament, and the Griſtle; Sinew, Panicle, and the Cord or Filament; the Fleſh, the Artery, and the Veins. How hath the Lord diſpoſed of all the inward Veſsels, for the offices of Life, nouriſhment, and egeſtion; there is none of thoſe (foremen<g ref="char:EOLhyphen"/>tioned) idle; there is no piece in this exquiſite frame, whereof the place, the uſe, and the form, do not admit wonder, and ex<g ref="char:EOLhyphen"/>ceed it.</p>
+               <p>
+                  <note place="margin">The Soul.</note>But what is this Bodie if compared to the Soul, no more then a clay wall that encompaſseth a treaſure, or a mask to a
+<pb n="7" facs="tcp:93692:5"/>
+beautiful face? Man was made laſt, becauſe he was the worthi<g ref="char:EOLhyphen"/>eſt: the Soul inſpired laſt, becauſe yet more noble. God that breatheth upon Man, and gives him the Holy Spirit; the ſame God did breath upon this Carkaſs, and gave it a living ſpirit. He alone did create our ſouls in their infuſion; and infuſed them in their creation. Our knowledge in the beginning, and our righteouſneſs was perfect like the firſt Copie from which we were drawn. O too too happy eſtate of man, had not his untimly fall ſo cancelled the divine character!<note place="margin">His fall and miſery.</note> whence all the faculties of our ſoul are corrupted, continually prone to ſin. This now is the law of our members, and the wages thereof is death. O the hard condition of a man, that before he can offend, (even from the womb) he is neceſſitated to it. <hi>Heraclitus</hi> therefore ſtill wept in the conſideration of our humane miſery: and <hi>Plinie</hi> accounted him moſt happy, which ſhould die unborn; or being born ſhould die. Uſually the new born babe that is a Male, cryeth A: and the Female E.</p>
+               <q>Dicentes E vel A, quotquot naſcuntur ab Evah</q>
+               <p>And what means <hi>Evah,</hi> but <hi>Heu Ha?</hi> both are interjections of ſorrow, expreſſing the greatneſſe of their calamity. There was ſome reaſon then for that cuſtom amongſt the <hi>Scythians,</hi> who ſtill wept at the birth of their children, and did feaſt it out at the death of their parents: becauſe that then they were de<g ref="char:EOLhyphen"/>livered out of all their troubles. O how full of anxiety are mindes of mortal men? cares and croſſes ſtill ſet upon them; they are encompaſſed with afflictions on every ſide: <hi>Experto crede Magiſtro:</hi>
+                  <note place="margin">Job 19.</note> 
+                  <hi>Job</hi> ſpake it by experience in his nineteenth Chapter; <hi>If I am ungodly, then woe is me: and if juſt, I can<g ref="char:EOLhyphen"/>not lift up my head, being fill'd with miſery.</hi> And from this no eſtate, condition, nor age is free: all is vanity and vexation of ſpirit. Our infancie is full of folly: youth of diſorder and toil: elder years of infirmity: each time hath its burthen, and that which may juſtly work our wearineſs. Art thou poor, O man? why then thou ſhalt be oppreſt with need, hunger, nakedneſs, and with cold. But art thou rich? why, hereby then thine a<g ref="char:EOLhyphen"/>bundance will prove to be thine overthrow: this gives thee reins to run after thy impious luſt; and to ruſh upon all unlaw<g ref="char:EOLhyphen"/>full
+<pb n="8" facs="tcp:93692:6"/>
+Acts. Again art thou a ſervant? why then, either thy mind is terrified with threats; or thy body afflicted with many ſtripes. Or art thou a Maſter, and haſt others at command? why then, if thou art cruel, fear will poſſeſs thee of rebellious ſervants, and if kinde and affable, they will ſoon neglect thee, and wax inſolent. Either thy rigour will draw hatred on thy head, or familiarity contempt. So that there is no eſtate on earth can make a man compleatly happy. Yea, who ever lived one day in perfect joy? wherein either the guilt of conſcience, the violence of wrath, or the motions of concupiſcence, did not trouble him? wherein neither the ſpite of envie, the love of avarice, or ſwelling pride, did not touch him? and wherein neither loſs, offence, or paſſion did not move him? Yea, that very time, the night which is granted us for our reſt and quiet, is not granted to be quiet: for dreams do terrifie, and viſions do moleſt us, and although thoſe things are not truly terrible and ſorrowfull, which Dreamers dream; yet they are truly terrified, and are ſorrowful: inſomuch that ſometimes ſleeping they do weep, and waking are much diſturb'd. Yet above and beſides all this, there are divers ſickneſſes whereunto our na<g ref="char:EOLhyphen"/>ture is continually incident. All the induſtry of Phyſitians have not hitherto found out ſo many names for diſeaſes, as our hu<g ref="char:EOLhyphen"/>mane frailty do dayly ſuffer, Suffer (did I ſay) unſufferableneſſe of diſeaſes; or unſufferable (did I ſay) ſufferance. The ſence will be beſt if we take both: for it is unſufferable from the bitterneſſe of the paſsions: and ſufferable for the neceſsitie of it. JESUS therefore when he ſaw <hi>Mary</hi> lamenting her late diſeaſed Brother,<note place="margin">John 11.35.</note> was troubled in the ſpirit, and wept: <hi>John</hi> 11. perhaps not becauſe that <hi>Lazarus</hi> was dead: but rather for that being dead and at reſt, he was about to recall him into the mi<g ref="char:EOLhyphen"/>ſery of this preſent life. But the Lord again will deliver both him and us out of all our troubles:<note place="margin">Job 14.5.</note> for our time is determined, and he hath appointed our bounds which we cannot paſs: therefore we muſt die: Death is the wages of ſin; therefore we all ſhall die: and for to die is the law of nature; therefore we cannot chuſe but die: which ſheweth you my ſecond part, The neceſsity of death: The act in mans departing, <hi>He yield<g ref="char:EOLhyphen"/>eth up.</hi>
+               </p>
+               <div type="part">
+                  <q>
+                     <pb n="9" facs="tcp:93692:6"/>Homo moritur. Man yieldeth up.<note place="margin">Second part. Eccles. 3.2.</note>
+                  </q>
+                  <p>There is a time to be born, and a time to die, ſaith the Preacher: but this Preacher could not tell us what year,<note place="margin">The neceſſitie of Death.</note> or in what time of the year, this time of Death ſhould be. And that ſhe is moſt to be feared in March, and in Autumn, is no more then a popular perſwaſion. Every moneth, every day is fitted unto death. The Church yard is alwayes open; and every hour may be heard the dolefull ſound of the paſsing Bell. ſooner or later we muſt all ſhake hands with impartial death.<note place="margin">
+                        <hi>Gen. 5.24.</hi> Thom. Aquin. in Haebr. c. <hi>11.</hi>
+                     </note> It is true that <hi>Enoch</hi> is not yet dead; yet (ſaith <hi>Aquinas</hi>) he muſt ſome<g ref="char:EOLhyphen"/>time die; for it is an irrevocable ſentence laid on ſin: <hi>Morte moriemini,</hi> ye ſhall ſurely die; or dying, you ſhall die; <hi>Mot<g ref="char:EOLunhyphen"/>thamoth,</hi> as it is in the original, <hi>Gen.</hi> 2.17.<note place="margin">Gen. 2.17.</note> Which kinde of ſpeech we may not call a Pleonaſm; or a vain Grammatical re<g ref="char:EOLhyphen"/>petition, and doubling of the word <hi>moriendi:</hi> for in the He<g ref="char:EOLhyphen"/>brew Dialect, by this is meant, <hi>Certiſſimè mori,</hi> the certainty and neceſsity of death: and not only this, but <hi>citiſſimè mori,</hi> the ſuddenneſs of death: and not only this, but <hi>violentèr mori,</hi> the violence of death. For as often as the Scripture makes men<g ref="char:EOLhyphen"/>tion of death and doubleth it; there is not meant a natural death, but<note n="*" place="margin">Philo-Ju<g ref="char:EOLhyphen"/>daus.</note> violent and judicial. Our firſt parents died againſt nature, their death being an act only of Gods Juſtice towards them for their diſobedience. The Lord made a Covenant with <hi>Adam,</hi> wherein <hi>Adam</hi> tyed himſelf, his Heirs, and Executors, but he forfeited his Bond; and we that ſucceed him in his ſin, are lyable to the debt: Death is the debt that we muſt all pay though never ſo unwilling, as the word <hi>[moriendum]</hi> ſheweth; it would be bootleſs to reſiſt. Do we not receive our life but upon condition? why then ſhould we grieve to pay it at the firſt asking? A wiſe man will make a vertue of neceſsity; and when his ſoul that was lent him is required, he (will be thank<g ref="char:EOLhyphen"/>full unto God for its uſe, and) is very ready to render it to him again: he yieldeth it up. By death we reſtore but what was borrowed. <hi>Homo vitae commodatus</hi> (<note n="*" place="margin">Publius Mimus.</note> ſaith one) <hi>non donatus eſt.</hi> But I may well alter the caſe, and ſay, <hi>(non homo vitae, ſed) vita homini commodata eſt, non donata.</hi> Doth God then lend us one another, and do we grudge when he calls for his own?
+<pb n="10" facs="tcp:93692:7"/>
+So have I ſeen ill Debters, that borrow with prayers, keep with thanks and repay with enmity. We much miſtake our Tenure, and account that for gift, which God intends for loan. We are no more then Tenants at will yet think our ſelves to be owners. If this condition were proper only to our ſelves and Climate; how unhappy ſhould we ſeem to be? But behold, no place is ſecure from death. <hi>Zacharie</hi> ſhall meet her, though it be be<g ref="char:EOLhyphen"/>tween the Temple and the Altar. Men had a Sanctuary to flie unto of old, yet there did <hi>Priamus,</hi> there did <hi>Joab</hi> die: and when is a man more ſure then ſitting? yet <hi>Eli</hi> fell down back<g ref="char:EOLhyphen"/>ward from his bench, and died. And do not every Prince, and Monarch dance with us in the ſame ring? But what ſpeak I of Earth? the God of Nature, the Saviour of men have trod the ſame ſteps: and ſhould we think much to follow him? No. Conſider but a little the Emblem of impartial death,<note place="margin">
+                        <g ref="char:V">Ʋ</g>t pingitur per Gabrielem In<g ref="char:EOLhyphen"/>chinum.</note> as * ſome have pictured it and we need not. A Carkaſs (it is) of man, that only doth conſiſt of bones united by the nerves: ears, eyes, and noſe it hath none: naked and terrible to behold: brandiſhing a ſharp fickle with both her hands,<note place="margin">Mortis Icon.</note> as if cutting down of corn. This is the <hi>Icon,</hi> the image of death: wherein look how many parts, ſo many myſteries.</p>
+                  <p>Firſt, Death is pictured without eyes, as an indifferent Judg, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>;<note place="margin">
+                        <hi>1.</hi> Sine oculis.</note> ſhe is no reſpecter of perſons, which have no fear of the mighty, nor pitty on the poor: no noble dignity, nor reſplendent ſhew; no riches, not the greateſt treaſure can procure her peace. O you Emperours, Popes, and Kings; Princes, and the greateſt Potentates; your Thrones, Diadems, and purple robes; Sceptres, Crowns, and Miters, death caſteth to the ground. You that are clothed in glorious garments and adorned to pomp ſhall die like men. Thou ſhalt not be ſafe, O <hi>Caeſar,</hi> in the Senate Houſe: Death will as well finde an entrance to the ſtately Palace,<note place="margin">Horat.</note> as the pooreſt Cottage: <hi>Pallida mors aequo pede pulſat pauperum tabernas, Regumque turres.</hi>
+                  </p>
+                  <p>
+                     <note place="margin">
+                        <hi>2.</hi> Sine auribus</note>Secondly, without ears: that will admit no prayers, no ſup<g ref="char:EOLhyphen"/>plications to pacifie her rage and fury. O you wiſe and learned Doctors, your eloquence, your knowledge ſhall not now pre<g ref="char:EOLhyphen"/>vail; ſhe is deaf, and heareth not your Reaſons and Arguments
+<pb n="11" facs="tcp:93692:7"/>
+of Philoſophie; not the pleading of the wrangling Lawyer, or the ſweet tongued Orator. The Poet with his pleaſant Jeſts; the ſubtil Sophiſter with his fallacies ſhall not now deceive her. She yieldeth not to the ſighs of the afflicted, nor their tears: Finally the prayers of the humble; the vain ſmooth ſpeeches of Flatterers ſhe doth not, ſhe cannot hear.</p>
+                  <q>
+                     <l>
+                        <note n="*" place="margin">Boet- de con<g ref="char:EOLhyphen"/>ſolat. Philoſ.</note>Heu, heu! quam ſurd â miſeros avertitur aure:</l>
+                     <l>Et flentes oculos claudere ſaeva negat.</l>
+                  </q>
+                  <p>Next Death is ſaid to have no noſe:<note place="margin">
+                        <hi>3.</hi> Sine naribus</note> as not to be deceived by any delightful ſmell. O you wanton and laſcivious Girls! your fragrant odours will now be nothing worth: the apparel that is all perfumed, and your ſweeteſt powders,<note place="margin">2 Reg. 9.30.</note> Death will eſteem as duſt. <hi>Jezabel</hi> no ſooner looks through the Window with her painted face, but it is torn in pieces by the ravenous Dogs. To what purpoſe then are all theſe kindes of ſavours, ſo many ſtrange diſtilled waters, your Musk, Perfumes, and Ambers?</p>
+                  <p>Death alſo is repreſented naked;<note place="margin">4. <hi>Nuda.</hi>
+                     </note> to ſhew the ſmall regard ſhe hath of Coin, rewards, and Earths abundance. O you rich and wealthy men, whoſe hope is placed in your large poſſeſsi<g ref="char:EOLhyphen"/>ons! think not when your Barns are full to be freed from death. <hi>Thou fool if this night thy ſoul be required,</hi>
+                     <note place="margin">Luke 12.20.</note> 
+                     <hi>then whoſe are theſe?</hi>
+                  </p>
+                  <p>Again, Death is fained to have no fleſh, no blood, nor skin:<note place="margin">
+                        <hi>5.</hi> Sine carne.</note> no eſteem of tender Age, of ſtrength, nor of complexion.</p>
+                  <q>Ipſa rapuit Juvenes, primâ florente juventa.</q>
+                  <p>Laſtly, Death doth ſhake her Sithe;<note place="margin">
+                        <hi>6.</hi> Vibrans fal<g ref="char:EOLhyphen"/>cem.</note> to declare how ſhe cuts down men like corn: the good together with the chaff, all ſhall down; that which is ripe for the coeleſtial Garner; and the green as ſtraw to be burnt in eternal fire.<note place="margin">Luke 16.</note> When <hi>Lazarus</hi> is conveighed into <hi>Abrahams</hi> boſom, the rich Glutton ſhall be caſt into the pit of Hell.</p>
+                  <p>So thus (Beloved) by this <hi>Mortïs imago,</hi> Deaths image, you may well conceive, how that all aſſuredly ſhall die. There is a neceſsity, it cannot be avoided, why then are we unwilling for to die?</p>
+                  <p>
+                     <hi>Morieris,</hi> thou ſhalt die: why it were fooliſhneſs to fear what I cannot ſhun. I ſhall not be the firſt nor laſt: many have gone before, all ſhall follow.</p>
+                  <p>
+                     <pb n="12" facs="tcp:93692:8"/>
+                     <hi>Morieris,</hi> thou ſhalt die: Why it is our humane nature, not a puniſhment. I had a beginning, and muſt therefore end.</p>
+                  <p>
+                     <hi>Morieris,</hi> thou ſhalt die: Why it is no news, I am ſworn to it, and ſhould I then repent? to this purpoſe I came into the world, and every day am walking to the Grave.</p>
+                  <p>
+                     <hi>Morieris,</hi> thou ſhalt die: Good God! what can be better unto mortal man? if Heaven be our countrey, earth is but a place of Baniſhment.</p>
+                  <p>
+                     <hi>Morieris,</hi> thou ſhalt die! This is <hi>Jus Gentium,</hi> to pay the Creditor what we have received: why then ſhould a man re<g ref="char:EOLhyphen"/>pine? he knoweth this Coin not to be his own; that his Soul is only lent him, and he yieldeth up the Ghoſt, which is the <hi>depoſitum,</hi> the Act of this Subject, and now comes next to be handled. <hi>Homo moritur,</hi> Man yieldeth up the Ghoſt.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>
+                  <note place="margin">Third part.</note>GHOST.</head>
+               <p>That divine Eſſence, the Soul of man, is in Scripture ſome<g ref="char:EOLhyphen"/>times called a Spirit, and ſometimes a Ghoſt. <hi>Stephen,</hi> when he was ſtoned,<note place="margin">Acts 7.59. John 19.30.</note> cryed out, <hi>Lord receive my Spirit, Acts</hi> 7. JESUS <hi>bowed, and gave up the Ghoſt,</hi> John 19. But there hath been great contention amongſt Philoſophers, what this Soul, this Ghoſt ſhould be. <hi>Thales Mileſius,</hi> the Athenian, (who lived in Kings <hi>Ahabs</hi> dayes) was the firſt that ever would undertake to define it;<note place="margin">Of the Souls Eſſence:</note> and that was thus. The Soul is a nature alwayes moving it ſelf. <hi>Pythagoras</hi> did make it no more then a num<g ref="char:EOLhyphen"/>ber; and <hi>Plato,</hi> A moving ſubſtance that went by Harmony. But <hi>Ariſtotle</hi> (comes neerer to the purpoſe,<note place="margin">Ariſtotle lib. <hi>2.</hi> de anim. cap. <hi>1.</hi> text. <hi>6.</hi>
+                  </note> and) calleth it <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a continual Act of a natural, of an inſtrumental Body, that may have life. But indeed we may more truly ſay what the Soul is not, then what it is: the greateſt perfection we deſcribe by Negatives. She cannot proceed from the matter, from the figure, or qualities of the Body: neither from the Harmony, Conjunction, and Agreement of the ſame: this the ſoul is not. The vital and animal ſpirits, are only the Inſtru<g ref="char:EOLhyphen"/>ments of the ſoul, and not the ſoul it ſelf: if otherwiſe, ſhe were not immortal, but would periſh together with the Body. Now the ſoul can be without the body, and vital ſpirits; though
+<pb n="13" facs="tcp:93692:8"/>
+the bodie and vital ſpirits cannot be without the ſoul: without her the bodie moveth not all. She in a moment by the cogita<g ref="char:EOLhyphen"/>tions paſſeth through the whole Heavens, encompaſſeth the Earth and Seas: this is inviſible, and cannot be perceived by ſenſe. For the operations of her Eſſence, ſhe hath Spirit, Will and Judgement; Senſe, Underſtanding, Reaſon: and for her Beauty, Temperance, Juſtice, and other Vertues of the Minde: in fine, ſhe is ſo divine, that ſhe can hardly be comprehended by Reaſon, much leſs then be perceived by ſenſe. God hath given us a ſoul more to uſe it, then to know it: He only knows it perfectly that is above it; we now know it only by the effects, but ſhall come to a cleerer revelation in the eternal Heavens.</p>
+               <p>Neither do the Philoſophers wrangle more concerning the Eſſence of our ſouls, then they differ about the parts thereof.<note place="margin">Of the parts of the Soul.</note> Moſt and the lateſt writers would have them to be four: Un<g ref="char:EOLhyphen"/>derſtanding, Reaſon, Anger, and Deſire: but yet the beſt re<g ref="char:EOLhyphen"/>ceived opinion will allow no more then two, under which they comprize the reſt. The one is ſpiritual, intellectual, and therein you have the diſcourſe of Reaſon: the other ſenſual, brutiſh, which is the Will, wandering of it ſelf, diſordered, wherein all evil deſires have their dwelling. However the ſoul (that is immortal) cannot properly be ſaid to be divided: be<g ref="char:EOLhyphen"/>cauſe what is divided, diſſolveth; and what is diſſolved, pe<g ref="char:EOLhyphen"/>riſheth: yet it may be ſaid to be compounded, and made ſub<g ref="char:EOLhyphen"/>ject (during the union with the body) to theſe two principal parts, the Will and Underſtanding.<note place="margin">The cauſes of Death.</note> The ſoul indeed may be ſaid to be divided (but in another ſenſe) to be ſeparated from the body; which may happen even in the beſt complexions:<note place="margin">Wherein Life conſiſteth.</note> if there be any exceſſe or defect in the Humors, then it cauſeth Death; in the Radical Humor I mean, which is the root of Life: for as the heat conſumeth this Humidity, ſo doth the party languiſh, he dieth: juſt like the flame which leſseneth her light and vigour, as the oil waſteth in the Lamp, till it be extinguiſhed. Again, the life of man conſiſteth in his breath, which is no more then winde or Air that refreſh the Heart, which if retained either in the Mouth or Artery, the man is ſurely dead. What then is death, but the taking down of theſe
+<pb n="14" facs="tcp:93692:9"/>
+ſticks whereof this earthly Tent is built? But the ſeparation of two great Friends until they meet again: but the Goal-delivery of a long Priſoner that rejoyces to be at liberty. The ſleep of the Body, and the awaking of the Soul which haſtneth to be gone, flyeth away, and where is ſhe? my laſt particular, the Quere. <hi>Man yieldeth up the Ghost, and where is he?</hi>
+               </p>
+               <div type="part">
+                  <q>
+                     <note place="margin">Fourth part.</note>
+                     <g ref="char:V">Ʋ</g>bi eſt? Where is he?</q>
+                  <p>
+                     <note place="margin">Where the Body is.</note>Although it hath been a cuſtom, amongſt ſome Heatheniſh people, to burn the bodies of their dead; and the more Barba<g ref="char:EOLhyphen"/>rous for to eat them: yet ſtill the moſt civil nations had the hu<g ref="char:EOLhyphen"/>manity to bury the Corps of their deceaſed Friends; for keep them we cannot, becauſe they corrupt, they putrifie. Their Bodies therefore are committed to the ground, duſt to duſt, and aſhes to aſhes, as in THE BOOK OF COMMON PRAYER. That the Bodies of the dead do return to the Earth from whence they were taken, no man can deny. But what is become of the ſoul?<note place="margin">Where the Soul.</note> there is the queſtion. Where is ſhe? Doth ſhe vaniſh into nothing, or wander in the Air? doth ſhe enter into beaſts, and ſo inform them? is ſhe idle and falls aſleep? or elſe doth ſhe haſten into Purgatory, or fly to Heaven? There is the queſtion; Where is ſhe? Doth ſhe vaniſh into nothing?</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> No. The <hi>Sadduces</hi> dare not die, for fear of not being; and do merrily ſing with the Hogs of the <hi>Epicures</hi> Stye, <hi>Ede, bibe, lude, poſt mortem nulla voluptas.</hi> But the Chriſtian is aſſured that the ſoul is immortal (otherwiſe he denyeth the hope of his reſurrection, and his faith is alſo vain) he doth well know that his ſoul ſurvives his body; ſhe cannot be annihilated, nor vaniſh like a vapour: why then, where is ſhe? In the Air?</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> No. The ſpirits of the dead do not wander in the Earth nor Aia; they frequent not Churchyards, Sepulchers, nor Tombs; and what after death is ſeen, is but the devil to deceive the peo<g ref="char:EOLhyphen"/>ple in their likeneſs; ſhe ſhall no more be beheld of men. Why <milestone type="tcpmilestone" unit="unspecified" n="3"/> then, where is ſhe? Doth ſhe inform any other creature?</p>
+                  <p>No. The tranſmigration of Souls was but a fable that the <note n="*" place="margin">Chryſ. hom. <hi>2.</hi> of Lazarus.</note> 
+                     <hi>Egyptians</hi> had taught <hi>Pythagoras,</hi> and <hi>Pythagoras</hi> the <hi>Plato<g ref="char:EOLhyphen"/>niſts;</hi> who<note n="*" place="margin">Herodian. Lib. <hi>2.</hi> Aug. Lib. <hi>12.</hi> de civit. Dei.</note> believed how that (that in tract of time) there
+<pb n="15" facs="tcp:93692:9"/>
+ſhould come a certain year, wherein all cauſes and effects long paſt, ſhould return again, and continue conſtant: as for exam<g ref="char:EOLhyphen"/>ple, that at <hi>Athens, Plato</hi> himſelf, who once had many Pupils there, after a long appointed ſeaſon (36000 thouſand years) the ſame <hi>Plato,</hi> City, and School, ſhould return again; in which ſpace <hi>Ptolomy</hi> the great Aſtronomer did conceive that the courſe and motion of the Sphere would be finiſhed from Weſt to Eaſt. And in the mean time it is taught by theſe bru<g ref="char:EOLhyphen"/>tiſh men, that when the ſoul doth depart the bodie, ſhe doth inform ſome Beaſt anſwerable to her former life: that the ſoul of an haſty and an angry man ſhould degenerate into a Serpent: Thieves into Wolves; and thoſe that are delighted in ſwiniſh pleaſure into Hogs: <hi>Homer</hi> into a Peacock, and <hi>Orpheus</hi> into a Swan. Yea, and <hi>Origen</hi> writeth,<note n="*" place="margin">Origen. lib. de proverb. Solom.</note> that this Hereſie of the ſouls departed) hapned among ſome (in his dayes) that were ſeeming Chriſtians, occaſioned by that they did not rightly underſtand the Scriptures: as where it is ſaid by Chriſt of <hi>John</hi> the <hi>Baptiſt, He is Elias,</hi> they refer that ſpeech to the ſoul of <hi>John;</hi> which was only meant to be in the Spirit or power of <hi>Elias,</hi> to con<g ref="char:EOLhyphen"/>vert their ſouls unto God: They did not know how a man doth become a Dog or an Aſſe; <hi>Herod</hi> is a Fox: it is by their reſemblance in condition: not that the ſoul doth depart into a Beaſt. Why then, where is ſhe? is ſhe alwayes idle, or a<g ref="char:EOLhyphen"/>ſleep?</p>
+                  <p>No. <hi>I</hi> (ſaith the Lord) <hi>am the God of Abraham, the God <milestone type="tcpmilestone" unit="unspecified" n="4"/> of Iſaac, and the God of Jacob; God is not the God of the dead, but of the living, Matth.</hi> 22. And if the ſoul departed live,<note place="margin">Matth. 22.32.</note> ſhe cannot be aſleep nor idle; for to live is to be in action: and what action doth better agree unto a departed Soul then the love and contemplation of her God? although <hi>Irenaeus,</hi> (and ſome others) will not grant thus much before the reſurrection day. Whoſe opinion doth ſeem to be grounded on that in the ſixth of the <hi>Apocalyps,</hi> and the ninth verſe:<note place="margin">Apoc. 6.9.10.</note> where S. <hi>John</hi> ſaw lying under the Altar, the ſouls of them that were ſlain: but this is anſwered in the next verſe, That they cryed unto God, and therefore were not aſleep. But where then doth this Altar ſtand? when the ſoul is under it, where is ſhe? In Pur<g ref="char:EOLhyphen"/>gatory?</p>
+                  <p>
+                     <pb n="16" facs="tcp:93692:10"/>No. The Papiſts ſtrangely talk of four infernal places in the bowels of the Earth: Hell, Purgatory, <hi>Limbus patrum,</hi> and <hi>Infantium.</hi> Perhaps Hell may be there, but the reſt are fabu<g ref="char:EOLhyphen"/>lous. Hell they account to be the loweſt, and would have Pur<g ref="char:EOLhyphen"/>gatory to be next: where the ſoul ſhall be ſure to bear enough, not only <hi>poena damni,</hi>
+                     <note place="margin">Aug. lib <hi>21.</hi> cap. <hi>13.</hi> de ci<g ref="char:EOLhyphen"/>vit. Dei. Euſeb. de prae<g ref="char:EOLhyphen"/>fat. Evang. lib. <hi>1.</hi> cap. ult.</note> but <hi>ſenſus</hi> too. As for the antiquity of this Purgatory, even <hi>Plato</hi> is cited (by S. <hi>Auguſtine</hi> and <hi>Euſe<g ref="char:EOLhyphen"/>bius</hi>) to be the Patron of it. Yea, and may not <hi>Homer</hi> and <hi>Vir<g ref="char:EOLhyphen"/>gil</hi> too be alleadged for't? for who doubts but that Poets are alwayes Orthodox? Yet (O the cold devotion of thoſe times!) this fire never began to burn out, before Pope <hi>Gregories</hi> dayes, and ſince that, the Authority of the Turkiſh Alcoran hath much added to the flames thereof; where there is ſeven yeers puniſhment for every ſin. But ſee now (I pray) the vanity of this new invention. Are not all the Articles of our Faith de<g ref="char:EOLhyphen"/>clared in ſacred Writ: yet there we hear nothing of this fain<g ref="char:EOLhyphen"/>ed Purgatory.<note place="margin">Sap. 3.1.</note> 
+                     <hi>Solomon</hi> doth utterly quench this fire,: <hi>The ſouls of the righteous are in the hands of God</hi> (ſaith he) <hi>and no tor<g ref="char:EOLhyphen"/>ment ſhall come nigh them. Wiſd.</hi> 3. Behold then, either ſouls without a Purgatory,<note place="margin">Matth. 11.18.</note> or a Purgatory without pain. <hi>Come unto me all you that labor, &amp; are heavy laden</hi> (ſaith Chriſt) <hi>and I will eaſe you. Mat.</hi> 11. Lord, whither wilt thou ſend us? into Purgatory? Surely there is little eaſe, if the fire be ſo hot as the Papiſts tell us.<note place="margin">Eſay 44.</note> 
+                     <hi>Thy ſins</hi> (ſaith God) <hi>I will no more remember. Eſay</hi> 44. Call you that no remembrance of them to caſt us into Purga<g ref="char:EOLhyphen"/>tory?<note place="margin">Philip. 1.23.</note> 
+                     <hi>I deſire</hi> (ſaith S. <hi>Paul) to be looſed, and to be with Chriſt. Phil.</hi> 1. Verily if he had thought to have gone through Purga<g ref="char:EOLhyphen"/>tory he would not have been ſo haſty: for there he ſhould be ſure to have met with a hot Bath, to have cooled his courage. Doubtleſs his ſoul that is departed did eſcape this place of tor<g ref="char:EOLhyphen"/>ment: And where then is ſhe? Is ſhe gone and aſcended up the Heavens?</p>
+                  <p>Yes. If <hi>Abrahams</hi> boſom be in Heaven: a Heaven it may be, though not the Heaven of Heavens: <hi>In Coelo beatorum,</hi> though not <hi>In ſancto ſanctorum:</hi> the higheſt and moſt glori<g ref="char:EOLhyphen"/>ous Heaven.<note place="margin">Chryſ. <hi>2.</hi> hom. de Lazaro.</note> There are but two wayes for Souls depart<g ref="char:EOLhyphen"/>ed (ſaith <hi>Chryſoſtome</hi>) ſome are hurried to the place of puniſh<g ref="char:EOLhyphen"/>ment;
+<pb n="17" facs="tcp:93692:10"/>
+and others are conveyed by Angels into Heaven: not in an inſtant (for that were an act of the Deity it ſelf) but they paſs by a Phyſical, by a local motion, though it be no longer then the twinkling of an Eye. This <hi>Abrahams</hi> Boſom is a place of bliſs, and receptacle of ſouls departed, wherein there is peace and tranquillity of minde, being in the ſight of God; yet that ſight of God is as through a veil, not cleer: for how (ſaith <hi>Origen</hi>) can they have the full viſion,<note place="margin">Origen. hom. <hi>7.</hi> in Levit.</note> and perfect happi<g ref="char:EOLhyphen"/>neſs, as long as they grieve at our errours, lament our ſins, and have a longing deſire to be united to their bodies?<note place="margin">Bellar. lib de Sanctis.</note> 
+                     <hi>Bellarmin</hi> indeed taketh great pains, to prove (in ſix long Chapters) that the Saints departed do preſently enjoy the full ſight of God, and enter into perfect bliſs; and reproveth M. <hi>Calvin,</hi> becauſe he ſaith, that the Saints are yet in hope of the full fruition. But the Fathers generally deny, that the ſouls of the Saints are yet in the very ſame place where the glorified Bodie of Chriſt re<g ref="char:EOLhyphen"/>mains. <hi>S. Chryſoſtom, S. Hillary,</hi> and <hi>S. Auguſtine:</hi>
+                     <note place="margin">Chryſ. <hi>i.</hi> Epiſt. ad Corinth. hom. <hi>39.</hi> Hillar. in pſal. <hi>36.</hi> Juſt. q <hi>1. 75.</hi> Ambr. tract. de bono mortis cap. <hi>10.</hi> Tert. adverſ. Marcionem l. <hi>4.</hi>
+                     </note> 
+                     <hi>Justine</hi> the Martyr, <hi>S. Ambroſe,</hi> and <hi>Tertullian,</hi> I could here alledge, who do all agree that the ſouls of the righteous are carried into Paradiſe or <hi>Abrahams</hi> Boſom, there to remain in hope and joy, but yet uncrowned, until the end of things bring the fulneſſe of reward by the reſurrection of all men. But what this <hi>Abrahams</hi> boſom is, whether <hi>Lazarus</hi> ſoul was conveyed by the Angels, or where it is, the moſt learned hitherto could not know; and therefore I dare not, I cannot determine it: Only by the words of <hi>S. Bernard</hi> in his third ſermon on <hi>All-Saints day,</hi>
+                     <note place="margin">Bern. in Fe<g ref="char:EOLhyphen"/>ſtum omnium ſanctorum. ſerm. <hi>3.</hi>
+                     </note> I conceit it to be next unto the higheſt Heavens, immediatly without the glorious preſence of Almighty God. There are three eſtates of the ſoul (ſaith he) in the corruptible body, without the body, &amp; in perfect bleſſedneſſe. The firſt is in the Tabernacles the ſecond in the Courts; and the third in the houſe of God: But into this moſt happy houſe, the ſouls of the Saints ſhall not enter before us, without us, or without their bodies.</p>
+                  <p>Art thou grieved, O departing ſoul, becauſe at (an inſtant) thou ſhalt not receive thy full reward? Why what then ſhould <hi>Abel</hi> do, who overcame ſo long ſince, and not yet glorified? what <hi>Noah,</hi> the Patriarchs, the Prophets, and the reſt of thoſe
+<pb n="18" facs="tcp:93692:11"/>
+times? for behold (they expected thee, and expect others after thee) they prevented us in their conflicts, but they ſhall not in their crowns. What though this Carkaſs be left to rottenneſs for a time, when my ſoul at the very inſtant of ſeparation, knows her ſelf to be happie? What although my friends mourn about my Bed and Coffin, when my ſoul is gone to enjoy the the loving embracements of my Lord and Saviour? And what matter is it though my name be forgotten amongſt men, when I live above, ſo neer unto the God of ſpirits? that part which is corrupted feels it not: but my ſoul findeth an abundant re<g ref="char:EOLhyphen"/>compence, and foreſeeth a joyful reparation, in the reſurrection of the juſt. When this mortality ſhall be clothed with immor<g ref="char:EOLhyphen"/>tality; then all tears ſhall be wiped from our eyes, both bodie and ſoul ſhall be made partakers of eternal happineſs. When the veil ſhall be taken away, then we ſhall all enter into that <hi>Sanctum Sanctorum,</hi> Gods chamber of preſence, where we ſhall have a full, even a cleer ſight of the beatifical viſion. When the day ſhall no more give place to night, and time ſhall ceaſe to be, by the conſummation of all things, then we ſhall live, and raign with God the Father, with God the Son, and with God the holy Ghoſt, in perfect joy, in perfect bliſs, and in perfect Glory; for ever everlaſtingly, even world without end.</p>
+               </div>
+            </div>
+         </div>
+         <div type="epilogue">
+            <head>ENCOM—EPILOGUE.</head>
+            <p>Now here at this Funeral Solemnity, you may well expect ſomething to be ſpoken of this our deceaſed, deereſt Friend: and indeed (although it might better beſeem another mans tongue then mine own, yet being my lot to be now in this place) I cannot omit it, without incurring the guilt of an in<g ref="char:EOLhyphen"/>jury to the dead: for as I utterly diſallow the cuſtome of ſome men, that juſtifie the ungodly, by often abuſing the Pulpit with their pleaſing tongues, that ſavour more of Flattery then of Truth; ſo neither would I be perverſe to condemn the In<g ref="char:EOLhyphen"/>nocent, and rob vertue of her reward, which doth here prin<g ref="char:EOLhyphen"/>cipally conſiſt in praiſe.</p>
+            <p>
+               <pb n="19" facs="tcp:93692:11"/>The Object here ſet before our eyes, is the ſubject of my Text, a ſad ſpectacle of Mortality, Man. If we ſearch the Re<g ref="char:EOLhyphen"/>cords for his antiquity and deſcent, it appeareth that his Father was an <hi>Amorite,</hi> and his Mother a <hi>Hittite,</hi> even one of <hi>Adams</hi> own ofspring, in that he was made ſubject to the Act, the curſe, when he yielded up the Ghoſt: <hi>Morte moriêris,</hi> thou ſhalt ſurely die; an irrevocable ſentence denounced by Gods own mouth, for our former fault and diſobedience. But, and if we come neerer to our ſelves, of his Deſcent and Parentage I will not ſpeak, for he was known as well to many others here pre<g ref="char:EOLhyphen"/>ſent, as my ſelf: onely I ſhall deſire thus much, that none here amongſt you will deſpiſe him, becauſe he was your Neighbour, and your Countrey man; nor to ſay of him diſdainfully (as the <hi>Nazarites</hi> did once of Chriſt) His Father and his Mother we well did know: his Brethren, his Siſters, and his Chil<g ref="char:EOLhyphen"/>dren are they not all with us? whence then hath this man any vertuous or religious Works?</p>
+            <p>In the firſt place, at his Birth-day, when the curtain of the attiring room was drawn, he then did enter upon the Stage of this preſent world, where his Prologue was but ſhort, and he ſpoke but little by reaſon of his Infancie; only he ſhewed to the world the meekneſs of his diſpoſition, and good inclina<g ref="char:EOLhyphen"/>tion of his nature. But when he came to ſome riper years of Judgement, he then well acted his part which was variable and full of changes, to the life expreſſing the vanity and un<g ref="char:EOLhyphen"/>certainneſs of humane kinde; where he left his paths for our feet to tread upon, and drawed forth a pattern for us to imi<g ref="char:EOLhyphen"/>tate by a pious converſation. His Zeal to God was expreſſed not only by his delight he had to frequent the Temple of the Lord; but alſo by his daily prayers in his private family. The chaſtity of his words and actions did declare that he never vio<g ref="char:EOLhyphen"/>lated his plighted troth to his loving wife, for his ſoul ſolely clave unto her: And the love that he alwayes had to his needy neighbour did promulge his charity: who only not omitted the occaſion of well doing, but alſo ſometimes ſought it, well knowing that he had loſt that day wherein he had not done ſome good. It would here be tedious to ſpeak of his domeſtick
+<pb n="20" facs="tcp:93692:12"/>
+diſcipline; to recite his publick converſation, which was al<g ref="char:EOLhyphen"/>wayes juſt, honeſt and vertuous: and that the words I utter may the better appear to be impartial, I take all you to record that hear me this day, how that he was pure from offence to all men, and I am verily perſwaded that no man can juſtly ſay as much as black unto his eye. Truth was placed in his words, and conſtancie in his deeds. There was a freedom in his preſence, and in his viſage cheerfulneſſe. He was eaſie to forgive, courteous unto all, yea even to his enemies, for ſome he had, becauſe vertue cannot be without them. In a word, he carried himſelf in all his Fortunes with an equal mind, not too much puft up with the ſwelling floods of proſperitie; neither ſinking to deſpair at the loweſt ebbe of adverſity. Of whom (me thinks) the more I ſay, the more is ſtill behinde and unſaid. I am taken with the largeneſs of his goodneſs, even the plenty of his praiſes were enough to make me eloquent. What ſhall I ſay of this mans uprightneſs, when that of <hi>Horace</hi> might more then an hundred times be re<g ref="char:EOLhyphen"/>peated of him: <hi>Integer vitae ſceleriſque purus?</hi> and what ſhall I ſay of his Conſtancie, Faith, and Patience? with all which he was ſo excellently well adorned, that whereas he was not ſe<g ref="char:EOLhyphen"/>cond unto any, ſo you ſhall finde out few that can equal him, but to be excelled by none.</p>
+            <p>Thus have I in him repreſented to your view a ſhort plat<g ref="char:EOLhyphen"/>form for your imitation in the way of Godlineſs; a moral Co<g ref="char:EOLhyphen"/>medie which the ſoul of our deereſt departed Friend hath here acted amongſt us, in this now dead Trunk, this Carkaſs, to the general applauſe of all the Spectators, only I ſhall deſire you to hear his Epilogue, and I have done, to finiſh his Pil<g ref="char:EOLhyphen"/>grimage, although it be Tragical.</p>
+            <p>The ſame magnanimity of ſpirit that kept him all his life time, did not now forſake him, even in his greateſt ſickneſs, for be<g ref="char:EOLhyphen"/>ing viſited of the Lord by divers (as I ſuppoſe) and ſtrong diſeaſes, he bore them all moſt patiently, inſomuch (that al<g ref="char:EOLhyphen"/>though I was after my own recovery, very often with him, yet) could not at any time obſerve him, either to grudg, groan, or ſigh for grief under the rod of Gods correction: neither
+<pb n="21" facs="tcp:93692:12"/>
+was his heart any thing diſmayed at the remembrance of his diſſolution, for he told me again and again, that although his bodie was weak, yet his ſoul was ſtrong by Faith in Chriſt, for the remiſſion of his ſins: he well knew, it was that mans property to be afraid of death, who is unwilling for to go to Chriſt: accounting that the earth was not given us for a dwel<g ref="char:EOLhyphen"/>ling place, but an Inne; that our being here which we call [Life,] is not ſo properly a life indeed, as a journey to it: that his Hope was not here fixt on Earth, but Heaven: that he knew full well whither he was going, not by his own merits, but the mercies of Chriſt, in whom alone he had placed his confidence of eternal ſafety. And in this aſſurance he devoutly took the holy Sacrament of the Lords Supper (at my hands) to furniſh him with fit proviſion for his journey to his long home: ſo that at length when his glaſs was run, he willingly gave an ear to his Makers call; and in the midſt of his childrens tears, &amp; their pious invocations, he departed hence from this vale of miſery: He yielded up the Ghoſt, and where is he? As for his ſoul, 'tis fled: we may go to him, he cannot come to us: why do we weep and mourn? his gain doth far exceed our loſs: he is now in Paradiſe, in <hi>Abrahams</hi> Boſom, for the Angels have con<g ref="char:EOLhyphen"/>veyed him to his place of reſt. But as for his Corps, this breath<g ref="char:EOLhyphen"/>leſs bodie, which doth here remain with us, let us accompanie it unto the Grave, the laſt kinde office we can ſhew to our deereſt Friend, and interre it in the duſt, where it may lie in peace and reſt until the reſurrection at the laſt, when we with him again may receive a joyfull union both of bodie and of ſoul, and enter into that moſt glorious Heaven of everlaſting happineſſe; Sing an eternal Halleluiah; Salvation, and Ho<g ref="char:EOLhyphen"/>nour; Juſtice, and Power; Mercie, and Thankſgiving, be aſ<g ref="char:EOLhyphen"/>cribed unto him that ſitteth upon the Throne and unto the Lamb for evermore. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
